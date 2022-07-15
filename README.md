@@ -15,7 +15,7 @@ This sub-subsection contains text that conveys information related to a very int
 Roses are red, \
 violets are blue, \
 line breaks in markdown \
-are easy to do. \
+are easy to do.
 
 ## Another second-level goes here
 
