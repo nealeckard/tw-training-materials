@@ -17,6 +17,6 @@ violets are blue, \
 line breaks in markdown \
 are easy to do.
 
-## Another second-level goes here
+## Another second-level header goes here
 
 It's time to move on to another topic, which is conveyed with words in a sentence wrapped in a paragraph.
